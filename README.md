@@ -9,8 +9,21 @@ Elaborar um aplicativo orientado à Objetos que apresente a biografia, empresas,
 
 ## Profissional designado a Dupla
 
+Alexey Leonidovich Pajitnov é um engenheiro de computação nascido na União Soviética, hoje radicado nos Estados Unidos. Tornou-se conhecido mundialmente por ter criado o jogo Tetris quando trabalhava para o Centro de Computação da Academia Soviética de Ciências, nos anos 1980
+
   ![alexey-pajitnov-tetris-1560184567661_v2_4x3](https://github.com/user-attachments/assets/ceade7b2-efc3-4ed4-9027-841754514251)
 
-- Alexey Pajitnov
-  
- Alexey Leonidovich Pajitnov é um engenheiro de computação nascido na União Soviética, hoje radicado nos Estados Unidos. Tornou-se conhecido mundialmente por ter criado o jogo Tetris quando trabalhava para o Centro de Computação da Academia Soviética de Ciências, nos anos 1980
+# Wikis
+## Descrição do Projeto
+- [Descrição e Objetivo]
+## Widgets 
+- [Aplicação e Funcionalidades do Flutter]
+## Protótipo
+- [Mapa de Navegação & Implementações do Flutter]
+## Aplicativo
+- [Tela de menu]
+- [Tela da gameplay]
+- [Tela sobre a história]
+- [Tela dos personagens]
+- [Tela sobre os planetas]
+- [Vídeo da execução do projeto]
