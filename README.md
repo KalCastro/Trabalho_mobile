@@ -13,7 +13,7 @@ Alexey Leonidovich Pajitnov é um engenheiro de computação nascido na União S
 
   ![alexey-pajitnov-tetris-1560184567661_v2_4x3](https://github.com/user-attachments/assets/ceade7b2-efc3-4ed4-9027-841754514251)
 
-## Wikis
+## Wiki
 
 ### Pesquisa da Biografia do profissional
 - [Biografia do profissional](https://github.com/KalCastro/Trabalho_mobile/wiki/Biografia-do-profissional)
