@@ -21,9 +21,3 @@ Alexey Leonidovich Pajitnov é um engenheiro de computação nascido na União S
 ## Protótipo
 - [Mapa de Navegação & Implementações do Flutter]
 ## Aplicativo
-- [Tela de menu]
-- [Tela da gameplay]
-- [Tela sobre a história]
-- [Tela dos personagens]
-- [Tela sobre os planetas]
-- [Vídeo da execução do projeto]
