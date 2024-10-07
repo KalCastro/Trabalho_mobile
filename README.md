@@ -22,7 +22,7 @@ Alexey Leonidovich Pajitnov é um engenheiro de computação nascido na União S
 - [Mapa de Navegação & Implementações do Flutter](https://github.com/KalCastro/Trabalho_mobile/wiki/Mapa-de-Navega%C3%A7%C3%A3o-&-Implementa%C3%A7%C3%B5es-do-Flutter)
 
 ### Diagrama de Classes
-- [Descrição](https://github.com/KalCastro/Trabalho_mobile/wiki/Descri%C3%A7%C3%A3o-e-Objetivo)
+- [Diagrama de Classes](https://github.com/KalCastro/Trabalho_mobile/wiki/Descri%C3%A7%C3%A3o-e-Objetivo)
   
 ### Widgets 
 - [Aplicação e Funcionalidades do Flutter](https://github.com/KalCastro/Trabalho_mobile/wiki/Aplica%C3%A7%C3%A3o-e-Funcionalidades-do-Flutter)
