@@ -9,6 +9,8 @@ Elaborar um aplicativo orientado à Objetos que apresente a biografia, empresas,
 
 ## Profissional designado a Dupla
 
-- Alexey Pajitnov
-
   ![alexey-pajitnov-tetris-1560184567661_v2_4x3](https://github.com/user-attachments/assets/ceade7b2-efc3-4ed4-9027-841754514251)
+
+- Alexey Pajitnov
+  
+ Alexey Leonidovich Pajitnov é um engenheiro de computação nascido na União Soviética, hoje radicado nos Estados Unidos. Tornou-se conhecido mundialmente por ter criado o jogo Tetris quando trabalhava para o Centro de Computação da Academia Soviética de Ciências, nos anos 1980
