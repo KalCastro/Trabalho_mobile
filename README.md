@@ -11,4 +11,4 @@ Elaborar um aplicativo orientado à Objetos que apresente a biografia, empresas,
 
 - Alexey Pajitnov
 
-![alexey-pajitnov-tetris-1560184567661_v2_4x3](https://github.com/user-attachments/assets/ceade7b2-efc3-4ed4-9027-841754514251)
+  ![alexey-pajitnov-tetris-1560184567661_v2_4x3](https://github.com/user-attachments/assets/ceade7b2-efc3-4ed4-9027-841754514251)
