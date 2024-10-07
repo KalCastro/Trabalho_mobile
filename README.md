@@ -1,7 +1,7 @@
 # Trabalho TDGA e PDM
 
 ## Colaboradores
-- Kauã de Castro(KalCastro)
+- Kauã de Castro Bárbara Fernandes(KalCastro)
 - Arthur Victor Souza Mascate(ArthurJD1777)
 
 ## Proposta de Trabalho
