@@ -16,7 +16,7 @@ Alexey Leonidovich Pajitnov é um engenheiro de computação nascido na União S
 ## Wikis
 
 ### Pesquisa da Biografia do profissional
-- [Biografia do profissional]
+- [Biografia do profissional](https://github.com/KalCastro/Trabalho_mobile/wiki/Biografia-do-profissional)
 
 ### Protótipo
 - [Mapa de Navegação & Implementações do Flutter](https://github.com/KalCastro/Trabalho_mobile/wiki/Mapa-de-Navega%C3%A7%C3%A3o-&-Implementa%C3%A7%C3%B5es-do-Flutter)
