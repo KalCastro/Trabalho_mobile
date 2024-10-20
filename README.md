@@ -28,3 +28,17 @@ Alexey Leonidovich Pajitnov é um engenheiro de computação nascido na União S
 - [Descrição](https://github.com/KalCastro/Trabalho_mobile/wiki/Descri%C3%A7%C3%A3o-do-desenvolvimento)
 
 ### Aplicativo
+
+## Recursos Utilizados:
+
+- [Flutter](https://flutter.dev/)
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+- Widgets Utilizados
+  
+  - [Image](https://api.flutter.dev/flutter/widgets/Image-class.html)
+  - [AppBar](https://api.flutter.dev/flutter/material/AppBar-class.html)
+  - [Text](https://api.flutter.dev/flutter/widgets/Text-class.html)
+  - [ElevatedButton](https://api.flutter.dev/flutter/material/ElevatedButton-class.html)
+  - [SingleChildScrollView](https://api.flutter.dev/flutter/widgets/SingleChildScrollView-class.html)
