@@ -21,7 +21,7 @@ Alexey Leonidovich Pajitnov é um engenheiro de computação nascido na União S
 ### Protótipo
 - [Protótipo & Implementações do Flutter](https://github.com/KalCastro/Trabalho_mobile/wiki/Prototipo-&-Implementa%C3%A7%C3%B5es-do-Flutter)
 
-### Diagrama de Classes
+### Diagramas
 - [Diagrama de Classes](https://github.com/KalCastro/Trabalho_mobile/wiki/Diagrama-de-classes)
   
 ### Descrição do desenvolvimento
