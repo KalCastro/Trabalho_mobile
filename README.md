@@ -41,5 +41,4 @@ Alexey Leonidovich Pajitnov é um engenheiro de computação nascido na União S
   - [ElevatedButton](https://api.flutter.dev/flutter/material/ElevatedButton-class.html)
   - [SingleChildScrollView](https://api.flutter.dev/flutter/widgets/SingleChildScrollView-class.html)
   - [SlideTransition](https://api.flutter.dev/flutter/widgets/SlideTransition-class.html?_gl=1*a6bber*_ga*MTAyMTk5MjE0Ni4xNzI5NTA2MzU5*_ga_04YGWK0175*MTcyOTUxMDAwNS4yLjEuMTcyOTUxMDkyOC4wLjAuMA)
-  - [Class PageView](https://api.flutter.dev/flutter/widgets/PageView-class.html?_gl=1*du4v33*_ga*MTAyMTk5MjE0Ni4xNzI5NTA2MzU5*_ga_04YGWK0175*MTcyOTUxMDAwNS4yLjEuMTcyOTUxMTE3NC4wLjAuMA.)
   - [Class RichText](https://api.flutter.dev/flutter/widgets/RichText-class.html?_gl=1*1g4ctmv*_ga*MTAyMTk5MjE0Ni4xNzI5NTA2MzU5*_ga_04YGWK0175*MTcyOTUxMDAwNS4yLjEuMTcyOTUxMjA5Ny4wLjAuMA..)
