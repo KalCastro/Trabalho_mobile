@@ -28,7 +28,7 @@ Alexey Leonidovich Pajitnov é um engenheiro de computação nascido na União S
 - [Descrição](https://github.com/KalCastro/Trabalho_mobile/wiki/Descri%C3%A7%C3%A3o-do-desenvolvimento)
 
 ### Codigo
-- [codigo]()
+- [codigo](https://github.com/KalCastro/Trabalho_mobile/wiki/codigo)
 
 ## Recursos Utilizados:
 
